@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SharanSShetty
 - 👀 I’m interested in Coding language and web development 
 - 🌱 I’m currently learning Masters in Computer science (MCA) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking for good job
+- 📫 How to reach me with my Gmail: sharanshetty20 
+- 😄 Pronouns: To earn good knowledge 
+- ⚡ Fun fact: There is BIG money in coding
 
 <!---
 SharanSShetty/SharanSShetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
