@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding language and web development 
 - 🌱 I’m currently learning Masters in Computer science (MCA) 
 - 💞️ I’m looking for good job
-- 📫 How to reach me with my Gmail: sharanshetty20 
+- 📫 How to reach me with my Gmail: sharansshetty123@gmail.com
 - 😄 Pronouns: To earn good knowledge 
 - ⚡ Fun fact: There is BIG money in coding
 
