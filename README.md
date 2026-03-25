@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharanSShetty
 - 👀 I’m interested in Coding language and web development 
-- 🌱 I’m currently learning Masters in Computer science (MCA) 
+- 🌱 Masters in Computer science (MCA) Graduate
 - 💞️ I’m looking for good job
 - 📫 How to reach me with my Gmail: sharansshetty123@gmail.com
 - 😄 Pronouns: To earn good knowledge 
